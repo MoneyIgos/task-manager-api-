@@ -45,7 +45,7 @@
   },
   "devDependencies": {
     "@commitlint/cli": "^12.1.4",
-    "@commitlint/config-conventional": "^12.1.4",
+    "@commitlint/config-conventional": "^13.1.0",
     "@golevelup/nestjs-testing": "^0.1.2",
     "@nestjs/cli": "^8.0.2",
     "@nestjs/mongoose": "^8.0.0",
